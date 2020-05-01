@@ -816,7 +816,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |WSP|✅|Start date postponed to June 15th|
 |Xandr|✅|Fully remote.|
 |Xilinx|✅|Remote Internship|
-|Yahoo (Verizon Media)|✅|Remote possible. Hiring freeze at Verizon Media.|
+|Yahoo (Verizon Media)|✅|Remote possible. Cancelled for internationals. Hiring freeze at Verizon Media.|
 |Zebra Technology|✅||
 |Zillow|✅|Interviews being cancelled. Hiring Freeze.|
 |Zippity Cars|✅|Hiring|
